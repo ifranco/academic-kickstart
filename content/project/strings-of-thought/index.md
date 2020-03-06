@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Strings of Thought"
-summary: "Contemporary Dance Piece"
+summary: "Strings of Thought is a contemporary dance piece that uses digital media and interactive scenography."
 authors: [ivan-franco]
 tags: ["art"]
 categories: ["art"]
@@ -39,11 +39,15 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-STRINGS OF THOUGHT is a contemporary dance piece that uses digital media as part of an interactive scenography. Conceptually, the project intends to evoke human self-reflection and its consequence on the decision-making process. This introspection also questions the duality of who we are and who we wish to be.
+Strings of Thought is a contemporary dance piece using interactive scenography. Conceptually, the project intends to evoke human self-reflection and its consequence on the decision-making process. This introspection also questions the duality of who we are and who we wish to be.
 
 {{< figure src="strings.png" title="" lightbox="true" width="50%" >}}
 
-In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer's body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement. Furthermore a set of electronic sensors were installed, granting the ability to digitally monitor several properties of the cable and thus dynamically generate sound and light, through the connection to interactive digital systems. These interactive systems are comprised of custom electronics and computer programs that were specially created to operate in realtime, allowing the choreography to become a motor for all the music and stage effects.
+In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer's body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement.
+
+{{< figure src="strings2.png" title="" lightbox="true" width="50%" >}}
+
+ The cables have a set of embedded sensors that measure linear movement and weight, generating data to digitally control light and sound. These interactive systems operate in realtime, allowing the choreography to become the motor for all the music and stage effects.
 
 {{< vimeo 49363337 >}}
 
