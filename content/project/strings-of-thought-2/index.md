@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Strings of Thought 2"
-summary: "Strings of Thought #2 is an interactive installation that invites the audience to explore and play with a musical meta-instrument and collaboratively create an intricate soundscape."
+summary: "Strings of Thought 2 is an interactive installation that invites interaction with a performer through a wearable meta-instrument to create a collaborative soundscape."
 authors: [ivan-franco]
 tags: ["art"]
 categories: ["art"]
@@ -59,9 +59,9 @@ gallery_item:
 ---
 A woman sits on a chair and from her head several strings emerge to form a network structure like dendritic trees of neurons. These cells generate electric signals based on potential voltage and the reaction to outside stimuli.
 
-Strings of Thought 2 is an interactive installation that invites the audience to explore and play with a musical meta-instrument and collaboratively create an intricate soundscape. It is an hybrid art piece of music, performance and installation, that depicts the process of human mental activity and its decomposition into the simpler synaptic events of the brain.
+Strings of Thought 2 is an interactive installation that invites interaction with a performer through a wearable meta-instrument to create a collaborative soundscape. An hybrid of music, performance and installation, depicting the process of human mental activity and its decomposition into the simple synaptic events of the brain.
 
-The audience enters a room to find a woman sitting on a chair. From her hair several strings protrude, which in turn are attached to piezoelectric sensors. The plucking of the strings generates voltage spikes on the sensor array that sends these electrical pulses to the computer, while a program written in Supercollider reinterprets this data and shapes it into sonic structures. This process very clearly resembles its biological counterpart happening at the neural level.
+The audience enters a room to find a woman sitting on a chair. From her hair several strings protrude and connect to piezoelectric sensors. The plucking of the strings generates voltage spikes on the sensor array that sends these electrical pulses to the computer, while a program written in Supercollider reinterprets this data and shapes it into sonic structures. This process resembles its biological counterpart at the neural level.
 
 The result is a peek into the soul of this lady character, as the audience is invited to play the instrument and create a soundscape composed of music and also the inner voices of this woman’s reasoning. Through this digital aesthetic artists Ivan Franco and Lígia Teixeira explore the recreation of the process of neural transmission in the brain and how this biological process evolves into the complexity of consciousness.
 

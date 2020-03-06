@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Strings of Thought"
-summary: "Strings of Thought is a contemporary dance piece that uses digital media and interactive scenography."
+summary: "Strings of Thought is a contemporary dance piece where the dancer controls light and sound through a set of suspended cables."
 authors: [ivan-franco]
 tags: ["art"]
 categories: ["art"]
@@ -43,11 +43,11 @@ Strings of Thought is a contemporary dance piece using interactive scenography. 
 
 {{< figure src="strings.png" title="" lightbox="true" width="50%" >}}
 
-In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer's body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement.
+In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer's body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. These cables have particular physical responses, working similarly to a car seatbelt - they can extend/retract and have a braking system, so that acceleration over a certain threshold will block the body's movement.
 
 {{< figure src="strings2.png" title="" lightbox="true" width="50%" >}}
 
- The cables have a set of embedded sensors that measure linear movement and weight, generating data to digitally control light and sound. These interactive systems operate in realtime, allowing the choreography to become the motor for all the music and stage effects.
+ The cables were installed with a set of embedded sensors that measure linear movement and weight, generating data to digitally control light and sound. This interactive system operates in realtime, allowing the choreography to become the motor for all the music and stage effects.
 
 {{< vimeo 49363337 >}}
 

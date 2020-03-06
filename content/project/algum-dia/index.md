@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Algum Dia Tinha de Ser a Sério"
-summary: "“Algum Dia Tinha De Ser A Sério” is a dance piece directed by me and Lígia Teixeira. It’s about the relationship between a woman and her imaginary companion. The woman lives between two spaces: bed and concrete reality."
+summary: "Algum Dia Tinha De Ser A Sério is a dance piece about the relationship between a woman and the imaginary companion of her dreams."
 authors: [ivan-franco]
 tags: ["art"]
 categories: ["art"]
