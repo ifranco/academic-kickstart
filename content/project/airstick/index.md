@@ -4,8 +4,8 @@
 title: "Airstick"
 summary: "A musical controllers played “in the air” like a bi-dimensional Theremin."
 authors: [ivan-franco]
-tags: ["YDreams","work"]
-categories: ["YDreams"]
+tags: ["art"]
+categories: ["art"]
 date: 2005-05-01
 
 # Optional external URL for project (replaces project detail page).

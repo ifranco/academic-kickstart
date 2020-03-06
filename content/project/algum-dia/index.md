@@ -65,6 +65,8 @@ Technically the telematic experience is accomplished by using two synchronized p
 
 The feminine character is also confronted with a third space: the outside world. It reveals the harsh confrontation with the “concréte” quotidian, a world apart from the room, the dream’s private space, able to induce the illusion for the imaginary lover. The traveling between these two worlds is symbolized by a lamp, switched on and off by the dancer, transporting her from one world to the other.
 
+{{< vimeo 6264626 >}}
+
 {{< gallery album="gallery" >}}
 
 ### Credits

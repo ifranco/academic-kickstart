@@ -65,10 +65,10 @@ The audience enters a room to find a woman sitting on a chair. From her hair sev
 
 The result is a peek into the soul of this lady character, as the audience is invited to play the instrument and create a soundscape composed of music and also the inner voices of this woman’s reasoning. Through this digital aesthetic artists Ivan Franco and Lígia Teixeira explore the recreation of the process of neural transmission in the brain and how this biological process evolves into the complexity of consciousness.
 
+{{< youtube CL26X5Fvtgw >}}
 
 ### Strings of Thought 2 @ Harvestworks(NY 2013)
 
-<!-- {{< gallery album="gallery" >}} -->
 {{< gallery album="gallery" >}}
 
 ### Credits
