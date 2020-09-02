@@ -21,22 +21,21 @@ organizations:
 bio: My research interests include interactive technologies and digital art.
 
 interests:
-- Interaction Design
-- Research and Development
+- Interactive Systems
+- User Experience
 - Digital Art
-- Digital Musical Instruments
 
 education:
   courses:
   - course: PhD in Music Technology
     institution: McGill University
-    year: 2019
+    year: 
   - course: Master in Digital Arts
     institution: Pompeu Fabra University
-    year: 2001
-  - course: BSc in Environmental Engineering
+    year: 
+  - course: BSc in Engineering
     institution: New University of Lisbon
-    year: 1999
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
