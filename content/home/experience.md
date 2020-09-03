@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2013-06-30"
   description = """
   * Began as an associate researcher working on the creative use of interactive audiovisual systems and user interfaces.
-  * Attracted capital investment through innovation, growing the startup from 10 people to 200.
+  * Attracted capital investment through innovation, growing the startup from 10 people to 120.
   * Led all technical and strategic management of R&D in the company, managing a yearly budget of around €1M and a team of 25+ researchers and managers.
   * Built an IP portfolio with several patents and trademarks used in our products and licensed to partners.
   * Our research team also worked closely with the product development team to ensure an efficient integration of new technologies and features.
