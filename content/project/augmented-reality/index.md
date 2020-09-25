@@ -47,7 +47,7 @@ Augmented Reality (AR) was a key area of research at YDreams. Since the beginnin
 Later we started experimenting with human input interaction and the possibilities people becoming actors inside the AR simulation.
 {{< figure src="antao.png" title="Our collaborator Antão Almada, playing with virtual water and bubbles." lightbox="true" >}}
 
-Around 2008 we had built a product called virtual sightseeing, an AR kiosk that displayed a layer of information over the scenery of touristic attraction sites. This kiosk turned 360 degrees and contained a touch screen, motorized cameras with zoom/tilt and a GSM data connection.
+Around 2008 we had built a product called virtual sightseeing, an AR kiosk that displayed a layer of information over the scenery of tourist attraction sites. This kiosk turned 360 degrees and contained a touch screen, motorized cameras with zoom/tilt and a GSM data connection.
 
 {{< figure src="vss.jpg" title="Virtual Sightseeing: an AR kiosk for touristic viewpoints." lightbox="true" >}}
 

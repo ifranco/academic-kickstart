@@ -58,5 +58,5 @@ subtitle = ""
 * Participation in VC and IPO operations for YDreams and its spin-offs.
 * Development of AR experiences for Canesta and Primesense, later acquired by Microsoft to create the Kinect controller.
 * Winner of Best Tech Demo at the Augmented Reality Expo 2010 (ARE 2010).
-* Guest Speaker at ISE DOOH Business Conference, TEDx, EComm, OFFF, SXSW, ARE, Screenmedia Expo, Berklee College of Music, IBM Research, 6 Sight, NIME, Merging 2011, Pecha Kucha, Future Places, GEAR, Upgrade!, Art Futura, Zeppelin Festival and many other events.
+* Guest Speaker at ISE DOOH Business Conference, TEDx, EComm, OFFF, SXSW, ARE, Screenmedia Expo, Berklee College of Music, IBM Research, 6 Sight, NIME, Pecha Kucha, Art Futura, Zeppelin Festival and many other events.
 * Winner of several awards and scholarships, including the 2010 Personality of the Year Award by the Portuguese Association for the Promotion of Multimedia and Digital Society.

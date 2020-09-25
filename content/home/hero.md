@@ -36,4 +36,4 @@ title = "Ivan Franco"
 
 +++
 
-**R&D Director and Researcher**
+**R&D Director and Interaction Designer**

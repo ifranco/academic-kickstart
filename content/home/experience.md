@@ -40,12 +40,12 @@ date_format = "Jan 2006"
   date_start = "2002-03-01"
   date_end = "2013-06-30"
   description = """
-  * Began as an associate researcher working on the creative use of interactive audiovisual systems and user interfaces.
-  * Attracted capital investment through innovation, growing the startup from 10 people to 120.
+  * Joined the startup company to work on design thinking and the creative use of interactive audiovisual systems and user interfaces.
+  * Attracted capital investment through innovation, growing the startup from 10 people to 120, with operations in Portugal, Brazil, US, Spain and China.
   * Led all technical and strategic management of R&D in the company, managing a yearly budget of around €1M and a team of 25+ researchers and managers.
   * Built an IP portfolio with several patents and trademarks used in our products and licensed to partners.
-  * Our research team also worked closely with the product development team to ensure an efficient integration of new technologies and features.
-  * Worked on spin-offs (YDreams Global, Ynvisible), creating business plans, raising VC capital and participating in IPO operations.
+  * Worked with VPs, Marketing and Production to ensure continuous innovation of products and services.
+  * Worked on spin-offs, creating business plans, raising VC capital and participating in IPO operations (YDreams Global, Ynvisible).
   """
 
 [[experience]]
