@@ -4,7 +4,7 @@
 title: "Vibropixels"
 summary: "Wearable tactile actuators."
 authors: [ivan-franco]
-tags: ["technology"]
+tags: ["technology", "work"]
 categories: ["technology"]
 date: 2016-01-01
 
